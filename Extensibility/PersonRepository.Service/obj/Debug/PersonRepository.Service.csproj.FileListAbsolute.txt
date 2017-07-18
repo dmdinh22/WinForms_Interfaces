@@ -1,0 +1,13 @@
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll.config
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.csprojResolveAssemblyReference.cache
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\EntityFramework.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.dll.config
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\EntityFramework.xml
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Service\bin\Debug\EntityFramework.SqlServer.xml

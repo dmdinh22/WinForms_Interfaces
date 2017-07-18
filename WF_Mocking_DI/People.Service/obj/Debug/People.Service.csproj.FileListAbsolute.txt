@@ -1,0 +1,8 @@
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\bin\People.Service.dll.config
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\bin\People.Service.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\bin\People.Service.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\bin\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\bin\PersonRepository.Interface.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\obj\Debug\People.Service.csprojResolveAssemblyReference.cache
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\obj\Debug\People.Service.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\6-csharp-interfaces-m6-advanced-exercise-files\before\AdvancedInterfaceTopics\People.Service\obj\Debug\People.Service.pdb

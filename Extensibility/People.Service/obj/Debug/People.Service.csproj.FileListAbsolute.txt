@@ -1,0 +1,13 @@
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\People.Service.dll.config
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\People.Service.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\People.Service.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\PersonRepository.Interface.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\obj\Debug\People.Service.csprojResolveAssemblyReference.cache
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\obj\Debug\People.Service.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\obj\Debug\People.Service.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\EntityFramework.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\EntityFramework.SqlServer.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\PersonRepository.Interface.dll.config
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\EntityFramework.xml
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\People.Service\bin\EntityFramework.SqlServer.xml

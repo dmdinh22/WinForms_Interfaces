@@ -1,0 +1,8 @@
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe.config
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\bin\Debug\Library.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\bin\Debug\Library.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csprojResolveAssemblyReference.cache
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.exe
+C:\Users\dmdinh\Documents\csharp-interfaces\4-csharp-interfaces-m4-explicitimp-exercise-files\before\ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.pdb

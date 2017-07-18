@@ -1,0 +1,4 @@
+C:\Users\dmdinh\Documents\csharp-interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\after\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\after\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\after\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\5-csharp-interfaces-m5-dynamic-exercise-files\after\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb

@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Downloads\csharp-interfaces\1-csharp-interfaces-m1-introduction-exercise-files\before\Polygons\Polygons.Library\bin\Debug\Polygons.Library.dll
+\\vmware-host\Shared Folders\Downloads\csharp-interfaces\1-csharp-interfaces-m1-introduction-exercise-files\before\Polygons\Polygons.Library\bin\Debug\Polygons.Library.pdb
+\\vmware-host\Shared Folders\Downloads\csharp-interfaces\1-csharp-interfaces-m1-introduction-exercise-files\before\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Downloads\csharp-interfaces\1-csharp-interfaces-m1-introduction-exercise-files\before\Polygons\Polygons.Library\obj\Debug\Polygons.Library.dll
+\\vmware-host\Shared Folders\Downloads\csharp-interfaces\1-csharp-interfaces-m1-introduction-exercise-files\before\Polygons\Polygons.Library\obj\Debug\Polygons.Library.pdb

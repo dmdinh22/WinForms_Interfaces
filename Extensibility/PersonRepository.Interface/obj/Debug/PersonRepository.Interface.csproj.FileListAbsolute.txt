@@ -1,0 +1,9 @@
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll.config
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\EntityFramework.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\EntityFramework.xml
+C:\Users\dmdinh\Documents\csharp-interfaces\3-csharp-interfaces-m3-extensibility-exercise-files\before\Extensibility\PersonRepository.Interface\bin\Debug\EntityFramework.SqlServer.xml
